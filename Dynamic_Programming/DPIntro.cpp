@@ -1,3 +1,4 @@
+// sub problems are dependent on each other of a problem, it give guarentee of optimal solution
 // Tabulation:-Bottom(base case) up(main problem ) DPapproach:- TC and SC and SC Optimization
 // Memoization:-top(main problem) to down(base cases) DP approach:-TC and SC
 // memoization(Every number is equal to the sum of previous 2 numbers):-we tend to store results of sub problems ,we overlap sub problems to other,means in fib(4) recursion
